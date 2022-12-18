@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cssher1
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on WEB and APP/GAME DEVELOPMENT.
+- 🌱 I’m currently Studying Computer Science.
+- 💞️ I’m looking to collaborate on Competetive Programming.
 - 📫 How to reach me shershahsuri414@gmail.com .
 
 <!---
